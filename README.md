@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=160&section=header&text=Hitesh+Boricha&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=160&section=header&text=Abhishek+Kumar+Singh&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2135D4&width=435&lines=Hello+every+one+;My+Name+is+Abhishek+Kumar+Singh;I+AM+21+years+old" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekksingh02&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekksingh02" /> </p>
