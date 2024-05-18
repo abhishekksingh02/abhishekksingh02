@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/foxtrotanshu02" target="blank"><img src="https://img.shields.io/twitter/follow/foxtrotanshu02?logo=twitter&style=for-the-badge" alt="foxtrotanshu02" /></a> </p>
 
-- 🌱 I’m currently learning **C++ with GUI, Adavance Java, Spring Boot, Hibernate Framework.**
+- 🌱 I’m currently learning **C++ with GUI, Advance Java, Spring Boot, Hibernate Framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekksingh02](https://github.com/abhishekksingh02)
 
